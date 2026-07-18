@@ -1,0 +1,41 @@
+printf 
+\n   \t
+int float char 
+%d   %f   %c
+variable names
+int age; // age is variable
+
+Taking input from user
+int pizzas = 5;    X
+
+will ask the value to user
+
+scanf  -> scan -. take input from user
+
+printf   computer writes 
+scanf    you wrote in keyboard
+                                         int    %d
+What is your age ?                       6
+You are in which standard ?              2
+how many minutes are there in an hour ?  60
+
+                                         float  %f
+HOw many marks you got in exam ?         12.5
+
+                                         char    %c
+which grade you got in exam ?            'A' 
+
+int age;
+
+scanf("%d", &age);
+& -> address of 
+
+
+
+
+1. Printf              used for printing anything on screen / console   OUTPUT
+2. escape sequence     \n(newline)   \t (tabline)
+3. data types          int , float , char
+4. variables           boxes which will store data  or  container for data
+5. format specifiers   int (%d), float (%f), char("%c")
+6. scanf               used for taking user INPUT   scanf("%d", &var_name);

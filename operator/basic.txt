@@ -1,0 +1,88 @@
+Operators 
+<=========================================>
+1. Arithmetic Operators 
+
++   adds two numbers
+-   subtracts two numbers
+*   multiplies two numbers
+/   divides two numbers
+%   modulus  returns remainder
+
+<=========================================>
+Relational Operator(used in condition)  ( 0- false   and  1 - true)
+
+<   less than
+
+    manushi Maths Marks < Elizabeth Maths marks
+              80        <       70
+              false 
+
+        80 < 90  -> true
+
+        90 < 100  -> true 
+        100 < 90  -> false 
+
+<   less than
+>   greater than
+>=  greater than or equal to
+<=  less than or equal to
+==  comparison operator  (equality checking) (whether both values are same or not)
+!=  not equal to 
+
+10 < 80  -> true
+50 < 20  -> false 
+20 > 10  -> true
+30 > 40  -> false
+10 < 10  -> false 
+10 > 10  -> false 
+
+9 < 10 -> true 
+10 <= 10 -> true
+10 >= 10 -> true 
+
+10 == 10 -> true 
+9 == 10  -> false 
+10 != 10 -> false 
+9 != 10  -> true  
+
+
+(5 + 4) < (9 + 2)  
+9    <    11   -> 
+
+(5 - 2) > (7 - 4)
+3   >   3    -> false
+
+(12 + 8) <=  (15 + 6)
+20 <=  21  -> true 
+
+(12 - 5 - 3) > (12 + 5 - 3)
+4      >   14    -> FALSE
+
+(5 * 4) == (10 * 2)  -> TRUE
+(5 * 6) != (7 * 4)   -> FALSE
+
+<=========================================>
+3. Logical Operator  (used to check two conditions)
+    a. AND  (Symbol : &&)
+      --> returns true when both conditions are true
+
+      --> Game Participation Rules : Both this conditions should be true
+                I. you must be girl     II. Your age should be greater 5
+
+    b. OR   (Symbol : ||)
+        -> returns true when any of the one condition is true
+
+        --> Game Participation Rules : Any one of the conditions should be true
+                I. You should know maths    II. You should know science 
+
+    c. NOT  (SYmbol :  !)
+        -> it changes the output 
+            
+           -> Manushi says , we will be doing homework today 
+           -> Victoria says (oppose Manushi ) -> we will not be doing homework today ) 
+           
+           -> Manushi says , we will not be doing homework today 
+           -> Victoria says (oppose Manushi ) -> we will be doing homework today ) 
+
+           true -> false    
+           false -> true 

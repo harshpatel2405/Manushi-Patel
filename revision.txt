@@ -1,0 +1,62 @@
+Printf --> print output on screen / console 
+scanf --> take input 
+format specifiers -> %d , %c, %f
+datatype --> int , float , char
+escape sequence -> \n , \t
+operators 
+    1. arithmetic operators + - * / %
+    2. relational operators < > <= >= == !=
+    3. Logical operator 
+        and -> && -> when both conditions are true 
+        or  -> || -> when any of the condition is true 
+        not -> ! -> changes true to false or false to true
+        
+conditionals 
+    if_else 
+        if checks the condition 
+            and if the condition is true , then performs logic 
+        else 
+            execute the remaining part 
+<===================================================>
+Printf -> output 
+scanf  -> input from user
+datatype -> int , float , char 
+format specifiers ->  %d, %f, %c 
+escape sequence -> \n, \t
+
+Operators 
+---------
+1. arithmetic Operators 
+    +  -  *  /   %
+
+2. Relational Operators
+    <  >  <=  >=  !=  ==
+
+3. Logical Operators
+    &&  and   true when both conditions are true else false 
+    ||  or    true when any one condition is true 
+    !   not   true -> false    ,    false -> true
+
+<=========================================================================>
+Printf -> output on screen
+scanf  -> input from user
+int -> %d
+float -> %f
+char -> %c
+\n -> new line 
+\t -> tab line 
+
++ - * / % (returns remainder)   ===> Arithmetic Operators
+<   >   <=   >=   ==   !=       ===> Relational Operators
+&&   ||   !                     ===> Logical Operators
+&& -> true when both conditions are true
+|| -> any one condition is true
+!  ->  true -> false and false -> true
+
+conditionals
+------------
+if_else 
+if (condition) 
+{
+    // logic 
+}
