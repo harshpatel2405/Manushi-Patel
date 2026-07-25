@@ -2,9 +2,7 @@
 * Dinosaur Height Check
 
 & A dinosaur can enter Dino Park only if its height is more than 5 feet.
-
 & Take the dinosaur's height as input and print:
-
 & if height is more than 5 feet print "Welcome Dino!"
 */
 

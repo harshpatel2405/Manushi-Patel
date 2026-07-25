@@ -20,7 +20,7 @@ You are in which standard ?              2
 how many minutes are there in an hour ?  60
 
                                          float  %f
-HOw many marks you got in exam ?         12.5
+How many marks you got in exam ?         12.5
 
                                          char    %c
 which grade you got in exam ?            'A' 
@@ -39,3 +39,71 @@ scanf("%d", &age);
 4. variables           boxes which will store data  or  container for data
 5. format specifiers   int (%d), float (%f), char("%c")
 6. scanf               used for taking user INPUT   scanf("%d", &var_name);
+<================================================================================>
+1. What is used for printing on screen? -> printf
+2. What is used to take input from user ? -> scanf
+3. What is used for newline ? -> \n
+4. What is used for tab? -> \t
+5. Which operator is used for remainder ? -> %
+6. What is used for getting int value from  user ? -> %d
+7. What is used for getting float value from  user ? -> %f
+8. What is used for getting char value from  user ? -> %c
+9. What is the error in this code ?
+
+#include<stdio.h>
+
+int main()
+{
+    return 0;
+}
+
+10. Find the error 
+
+#include<stdio.h>
+
+int main()
+{
+    int age = 45;
+
+    printf("Your age is %d", age);
+    return 0;
+}
+
+11. What is the error in this code?
+Find 5 error in this code..
+
+#include<stdio.h>
+
+int main()
+{
+    int a;
+    int b;
+
+    printf("Enter two numbers : ");
+    scanf("%d%d", &a, &b);
+
+    printf("Addition of %d and %d is %d", a, b, a+b);
+    return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+what is if_else and what it is used for ?
