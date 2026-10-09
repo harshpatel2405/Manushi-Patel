@@ -1,27 +1,3 @@
-/*
-* if main course is completed , then bring Caramel ice cream
-
-* Nested If_else
-
-* if(have you reached school)
-* {
-*     if(have you done homework)
-      {
-*
-      }
-* }
-*
-*/
-/*
-^ 🍫 Chocolate Factory (Easy)
-^ A chocolate factory gives gifts using these rules:
-^
-^ If the child scored 80 or more marks:
-^     If attendance is 90% or above, give a Big Chocolate Box.
-^     Otherwise, give a Small Chocolate Box.
-^ Otherwise:  Better luck next time!
-*/
-
 #include <stdio.h>
 
 int main()

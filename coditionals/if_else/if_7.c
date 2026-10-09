@@ -1,14 +1,3 @@
-/*
-* Pizza Party
-
-* Choose a size.
-*
-* Small
-* Medium
-* Large
-
-Print the price.
-*/
 #include <stdio.h>
 
 int main()

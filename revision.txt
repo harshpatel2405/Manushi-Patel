@@ -60,3 +60,67 @@ if (condition)
 {
     // logic 
 }
+<=================================>
+C Language -- Dennis Ritchie in 1972 --> 54 yrs
+<================================>
+Printf
+scanf
+\n
+\t
+
++
+-
+*
+/
+%
+
+>   8 < 36  -> 1
+<   9 > 4   -> 1
+!=  5 != 4  -> 1
+==  6 == 7  -> 0
+>=  7 >= 7  -> 1
+<=  6 <= 5  -> 0
+
+return 0;
+
+%d int 
+%f float 
+%c char 
+
+logical AND    &&   (returns true when both conditions are true)
+logical OR     ||   (returns true when any one condition is true )
+logical not    !    (false -> true ,,, true -> false)
+
+(){}
+
+if_else
+else if
+
+if(condition)
+{
+    logic
+}
+
+10 % 4 = 2
+11 % 7 = 4
+  ---------
+7 | 11    | 1
+    -7
+    --
+    4
+    --
+
+8 > 7     1
+7 < 4     0
+9 == 8    0
+7 != 98   1
+5 > 4 + 5 0
+5 >  9    0
+
+11 + 7 > 7 + 8      1
+12 * 2 == 2 + 22    1 
+   24  == 24
+
+<=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=>
+if_else
+-------
